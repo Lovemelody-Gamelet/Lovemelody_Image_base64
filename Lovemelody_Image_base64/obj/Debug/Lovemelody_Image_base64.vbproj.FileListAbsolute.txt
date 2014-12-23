@@ -1,0 +1,9 @@
+d:\users\jamie\documents\visual studio 2013\Projects\Lovemelody_Image_base64\Lovemelody_Image_base64\bin\Debug\Lovemelody_Image_base64.exe
+d:\users\jamie\documents\visual studio 2013\Projects\Lovemelody_Image_base64\Lovemelody_Image_base64\bin\Debug\Lovemelody_Image_base64.pdb
+d:\users\jamie\documents\visual studio 2013\Projects\Lovemelody_Image_base64\Lovemelody_Image_base64\bin\Debug\Lovemelody_Image_base64.xml
+d:\users\jamie\documents\visual studio 2013\Projects\Lovemelody_Image_base64\Lovemelody_Image_base64\obj\Debug\Lovemelody_Image_base64.Resources.resources
+d:\users\jamie\documents\visual studio 2013\Projects\Lovemelody_Image_base64\Lovemelody_Image_base64\obj\Debug\Lovemelody_Image_base64.vbproj.GenerateResource.Cache
+d:\users\jamie\documents\visual studio 2013\Projects\Lovemelody_Image_base64\Lovemelody_Image_base64\obj\Debug\Lovemelody_Image_base64.exe
+d:\users\jamie\documents\visual studio 2013\Projects\Lovemelody_Image_base64\Lovemelody_Image_base64\obj\Debug\Lovemelody_Image_base64.xml
+d:\users\jamie\documents\visual studio 2013\Projects\Lovemelody_Image_base64\Lovemelody_Image_base64\obj\Debug\Lovemelody_Image_base64.pdb
+d:\users\jamie\documents\visual studio 2013\Projects\Lovemelody_Image_base64\Lovemelody_Image_base64\obj\Debug\Lovemelody_Image_base64.MainForm.resources
